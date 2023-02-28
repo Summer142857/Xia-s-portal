@@ -15,7 +15,7 @@ sections:
         url: mailto:summer142857.jiang@gmail.com
       cta_note:
         label: >-
-          <div style="text-shadow: none;"><a class="github-button" href="https://www.researchgate.net/profile/Xia_Jiang20" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">See my ResearchGate</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">See my Google Scholar</a></div>
+          <div style="text-shadow: none;"><a class="button" href="https://www.researchgate.net/profile/Xia_Jiang20" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">See my ResearchGate</a></div><div style="text-shadow: none;"><a class="button" href="https://scholar.google.com/citations?user=fSvqZa8AAAAJ&hl=en" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">See my Google Scholar</a></div>
 
       text: |-
         **Master's student at Southeast University, China**
@@ -25,7 +25,7 @@ sections:
         Creating an efficient and sustainable transportation system through artificial intelligence
 
         <!--Custom spacing-->
-        <div class="mb-3"></div>
+        <div class="mb-5"></div>
         <!--GitHub Button JS-->
         <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
