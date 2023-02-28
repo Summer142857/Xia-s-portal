@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: Xia's Website
-      image:
-        filename: banner.gif
+<!--       image:
+        filename: banner.gif -->
       cta:
         label: '**Email me**'
         url: mailto:summer142857.jiang@gmail.com
-      cta_note:
+<!--       cta_note:
         label: >-
-          <div style="text-shadow: none;"><a class="github-button" href="https://www.researchgate.net/profile/Xia_Jiang20" data-icon="researchgate" data-size="large" data-show-count="true" aria-label="Star">See my ResearchGate</a></div><div style="text-shadow: none;"><a class="github-button" href="https://scholar.google.com/citations?user=fSvqZa8AAAAJ&hl=en" data-icon="google-scholar" data-size="large" data-show-count="true" aria-label="Star">See my Google Scholar</a></div>
+          <div style="text-shadow: none;"><a class="github-button" href="https://www.researchgate.net/profile/Xia_Jiang20" data-icon="researchgate" data-size="large" data-show-count="true" aria-label="Star">See my ResearchGate</a></div><div style="text-shadow: none;"><a class="github-button" href="https://scholar.google.com/citations?user=fSvqZa8AAAAJ&hl=en" data-icon="google-scholar" data-size="large" data-show-count="true" aria-label="Star">See my Google Scholar</a></div> -->
 
       text: |-
         **Master's student at Southeast University, China**
@@ -25,13 +25,16 @@ sections:
         Creating an efficient and sustainable transportation system through artificial intelligence
 
         <!--Custom spacing-->
-        <div class="mb-5"></div>
+        <div class="mb-7"></div>
         <!--GitHub Button JS-->
         <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
       background:
-        gradient_end: '#0b1852'
-        gradient_start: '#011160'
+        image:
+          filename: banner.gif
+          brightness: 0.6
+        size: cover
+        position: center
         text_color_light: true
   - block: about.avatar
     id: about
