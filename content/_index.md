@@ -28,14 +28,14 @@ sections:
         <div class="mb-7"></div>
         <!--GitHub Button JS-->
         <script async defer src="https://buttons.github.io/buttons.js"></script>
-    design:
+<!--     design:
       background:
         image:
           filename: banner.gif
           brightness: 0.6
         size: cover
         position: center
-        text_color_light: true
+        text_color_light: true -->
   - block: about.avatar
     id: about
     content:
