@@ -26,7 +26,7 @@ sections:
         Creating an efficient and sustainable transportation system through artificial intelligence
 
         <!--Custom spacing-->
-        <div class="mb-7"></div>
+        <div class="mb-1"></div>
         <!--GitHub Button JS-->
         <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
