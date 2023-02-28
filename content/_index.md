@@ -31,11 +31,8 @@ sections:
         <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
       background:
-        video:
-          filename: banner.gif
-          brightness: 0.6
-        size: cover
-        position: center
+        gradient_start: '#4bb4e3'
+        gradient_end: '#2b94c3'
         text_color_light: true
   - block: about.avatar
     id: about
