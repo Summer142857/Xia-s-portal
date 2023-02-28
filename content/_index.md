@@ -10,11 +10,14 @@ sections:
       title: Xia's Website
       image:
         filename: banner.gif
+      cta:
+        label: '**Email me**'
+        url: mailto:summer142857.jiang@gmail.com
 
       text: |-
         **Master's student at Southeast University, China**
 
-        *Artificial Intelligence (AI) and Intelligent Transportation Systems (ITS)*
+        **Artificial Intelligence (AI) and Intelligent Transportation Systems (ITS)**
         
         Creating an efficient and sustainable transportation system through artificial intelligence
 
