@@ -15,7 +15,8 @@ sections:
         **Master's student at Southeast University, China**
 
         *Artificial Intelligence (AI) and Intelligent Transportation Systems (ITS)*
-
+        
+        Creating an efficient and sustainable transportation system through artificial intelligence
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
