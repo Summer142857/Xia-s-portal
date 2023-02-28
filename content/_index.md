@@ -15,7 +15,7 @@ sections:
         url: mailto:summer142857.jiang@gmail.com
       cta_note:
         label: >-
-          <div style="text-shadow: none;"><a class="button" href="https://www.researchgate.net/profile/Xia_Jiang20" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">See my ResearchGate</a></div><div style="text-shadow: none;"><a class="button" href="https://scholar.google.com/citations?user=fSvqZa8AAAAJ&hl=en" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">See my Google Scholar</a></div>
+          <div style="text-shadow: none;"><a class="github-button" href="https://www.researchgate.net/profile/Xia_Jiang20" data-icon="researchgate" data-size="large" data-show-count="true" aria-label="Star">See my ResearchGate</a></div><div style="text-shadow: none;"><a class="github-button" href="https://scholar.google.com/citations?user=fSvqZa8AAAAJ&hl=en" data-icon="google-scholar" data-size="large" data-show-count="true" aria-label="Star">See my Google Scholar</a></div>
 
       text: |-
         **Master's student at Southeast University, China**
