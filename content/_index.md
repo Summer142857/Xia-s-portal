@@ -31,8 +31,8 @@ sections:
         <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
       background:
-        gradient_start: '#4bb4e3'
-        gradient_end: '#2b94c3'
+        gradient_start: '#031451'
+        gradient_end: '#011365'
         text_color_light: true
   - block: about.avatar
     id: about
