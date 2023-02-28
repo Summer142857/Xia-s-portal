@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: Xia's Website
- image:
+      image:
         filename: banner.gif
       cta:
         label: '**Email me**'
