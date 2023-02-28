@@ -13,6 +13,9 @@ sections:
       cta:
         label: '**Email me**'
         url: mailto:summer142857.jiang@gmail.com
+      cta_note:
+        label: >-
+          <div style="text-shadow: none;"><a class="m-button" href="https://www.researchgate.net/profile/Xia_Jiang20" data-icon="researchgate" data-size="large" data-show-count="true" aria-label="Star">See my ResearchGate</a></div><div style="text-shadow: none;"><a class="m-button" href="https://scholar.google.com/citations?user=fSvqZa8AAAAJ&hl=en" data-icon="google-scholar" data-size="large" data-show-count="true" aria-label="Star">See my Google Scholar</a></div>
 
 
       text: |-
@@ -28,7 +31,7 @@ sections:
         <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
       background:
-        image:
+        video:
           filename: banner.gif
           brightness: 0.6
         size: cover
