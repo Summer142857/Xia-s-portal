@@ -22,7 +22,7 @@ sections:
 
         **Artificial Intelligence (AI) and Intelligent Transportation Systems (ITS)**
         
-        Creating an efficient and sustainable transportation system through artificial intelligence
+        Creating an efficient and sustainable transportation system through artificial intelligence                                                                                
 
         <!--Custom spacing-->
         <div class="mb-1"></div>
